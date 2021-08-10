@@ -1,2 +1,2 @@
 # Portfolio
-My works public on the web.(Not commercial.)
+My works public on the web. (Not commercial.)
